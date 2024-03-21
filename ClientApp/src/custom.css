@@ -13,3 +13,22 @@ code {
   border-color: #1861ac;
 }
 
+.logo {
+    width: 400px;
+}
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.home-footer {
+    margin-top: auto;
+}
+
+.main-facts > li::marker {
+    font-size: 1.4rem;
+    color: #61DAFB;
+}
